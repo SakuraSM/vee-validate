@@ -44,7 +44,7 @@ new Vue({
   data: {
     // Some Data ...
   },
-  methods {
+  methods: {
     // Cool methods ...
   }
 });
